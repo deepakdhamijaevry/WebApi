@@ -1,0 +1,196 @@
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.exe.config
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.rsp
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.exe
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.exe.config
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.rsp
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.AppContext.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Console.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Compression.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Pipes.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Claims.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.ValueTuple.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XPath.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.exe.config
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.rsp
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Antlr3.Runtime.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Newtonsoft.Json.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Diagnostics.DiagnosticSource.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Net.Http.Formatting.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Helpers.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.WebHost.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Mvc.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Optimization.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Razor.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\WebGrease.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Newtonsoft.Json.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Net.Http.Formatting.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Helpers.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.WebHost.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Mvc.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Optimization.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Razor.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Antlr3.Runtime.pdb
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Diagnostics.DiagnosticSource.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.intial.resources
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Swashbuckle.Core.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Swashbuckle.WebHost.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Cors.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.Cors.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\WebActivatorEx.dll
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.Cors.xml
+C:\D drive\Projects\React-Demos\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.dll.config
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\StudentManagement.pdb
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.exe
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.exe.config
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csc.rsp
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.exe
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.exe.config
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\csi.rsp
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.AppContext.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Console.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Compression.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.IO.Pipes.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Claims.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.ValueTuple.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XPath.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.exe
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.exe.config
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\vbc.rsp
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Antlr3.Runtime.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Newtonsoft.Json.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Swashbuckle.Core.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Swashbuckle.WebHost.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Diagnostics.DiagnosticSource.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Net.Http.Formatting.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Cors.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Helpers.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.Cors.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.WebHost.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Mvc.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Optimization.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Razor.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\WebActivatorEx.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\WebGrease.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\EntityFramework.SqlServer.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Net.Http.Formatting.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.Cors.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Newtonsoft.Json.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Helpers.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Http.WebHost.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Mvc.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Optimization.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.Razor.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Deployment.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Web.WebPages.Razor.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Antlr3.Runtime.pdb
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\System.Diagnostics.DiagnosticSource.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Migrations.intial.resources
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+C:\d-drive\React-WebPack-Jsx\CRUD-Web-Api\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
